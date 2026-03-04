@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHUb! The projects on here are either projects from my Full Stack JavaScript Techdegree, class projects, or personal projects!
 
 
 <!--
